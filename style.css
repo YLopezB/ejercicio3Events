@@ -1,0 +1,14 @@
+.content-nuevaNota{
+    background-color: #ffc107;
+}
+h1{
+    text-align: center;
+}
+
+.tachado {
+    text-decoration: line-through;
+}
+
+.content-input{
+    background-color: grey;
+}
